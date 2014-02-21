@@ -1,10 +1,10 @@
-Additional tidbits and side assignments for Bloc
-================================================
+Additional tidbits and side assignments
+=======================================
 
 End of Week 1
 -------------
 
-- For Mac users, setup a local rails environment: https://gist.github.com/dougwig/8609929
+- For Mac users, setup a local rails environment: https://github.com/dougwig/bloc-extra/blob/master/mavericks.md
 - Experiment with the use of the ".inspect" method, and how it can aid debugging. Open irb and try the following two lines:
 
 ```
