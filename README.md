@@ -49,16 +49,26 @@ Awesome gems that you should check out:
 
 - asset_sync
 - better_errors
+- carrierwave https://github.com/jnicklas/carrierwave
+- cells https://github.com/apotonick/cells
+- chef
+- delayed_job / resque
 - draper
 - errbit
+- eventmachine
 - foreman
 - geocoder
+- letter_opener
 - mechanize
+- passenger
+- prawn
 - quiet_assets
 - redcarpet
 - stripe-ruby
+- thor https://github.com/erikhuda/thor
 - will_paginate
 - vcr
+- zeus https://github.com/burke/zeus
 - https://github.com/YorickPeterse/ruby-lint
 - https://github.com/troessner/reek
 - http://watirwebdriver.com/
