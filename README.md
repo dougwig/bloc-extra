@@ -44,8 +44,8 @@ End of Week 5
 
 - Experiment with rails composer. https://github.com/RailsApps/rails-composer
 
-Awesome gems that you should check out:
--------------
+Awesome gems that you should check
+----------------------------------
 
 - asset_sync
 - better_errors
@@ -74,3 +74,26 @@ Awesome gems that you should check out:
 - http://watirwebdriver.com/
 - http://activeadmin.info
 - rails_admin
+
+Great web services for your dev environment
+-------------------------------------------
+
+- Github https://github.com
+- Slack https://slack.com
+- Trello https://trello.com
+
+Great web services for your apps
+--------------------------------
+
+- AWS
+- Digital Ocean
+- Heroku
+- Intercom
+- New Relic
+- Papertrail
+- Parse
+- Segment.io
+- Sendgrid
+- Stripe
+- Twilio
+
